@@ -12,6 +12,7 @@
   "devDependencies": {
     "typescript": "3.3.3"
   },
+  "homepage": "https://hristiyan22.github.io/Keeper",
   "scripts": {
     "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
     "build": "react-scripts build",
